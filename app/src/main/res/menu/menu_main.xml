@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.bloomu.nmy75228.crossflips.MainActivity">
+    <item
+        android:id="@+id/easy"
+        android:orderInCategory="100"
+        android:title="Easy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Medium"
+        android:orderInCategory="200"
+        android:title="Medium"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Hard"
+        android:orderInCategory="300"
+        android:title="Hard"
+        app:showAsAction="never" />
+</menu>

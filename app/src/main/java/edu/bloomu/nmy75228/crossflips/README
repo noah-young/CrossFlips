@@ -1,0 +1,15 @@
+Noah Young
+CrossFlips v1.0
+25 February 2020
+
+Android app that plays the game of Cross Flips. The main purpose for this read
+me file is to include the project references.
+
+-- REFERENCES --
+Java SE 11 & JDK 11
+    https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+    https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html
+
+COMPSCI 345-01 GridLayoutDemo
+    Coles, Drue. “GridLayoutDemo.” 12 Feb. 2020.
+

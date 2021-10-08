@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    android:id="@+id/grid_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <!-- <ImageView
+         android:id="@+id/stone00"
+         android:layout_width="@dimen/stone_size"
+         android:layout_height="@dimen/stone_size"
+         android:layout_margin="@dimen/stone_margin"
+         android:src="@drawable/red"
+         android:contentDescription="@string/image_description"
+         android:onClick="shakeDisc"/>
+
+     <ImageView
+         android:id="@+id/stone01"
+         android:layout_width="@dimen/stone_size"
+         android:layout_height="@dimen/stone_size"
+         android:layout_margin="@dimen/stone_margin"
+         android:src="@drawable/yellow"
+         android:contentDescription="@string/image_description"
+         android:onClick="shakeDisc"/>
+
+     <ImageView
+         android:id="@+id/stone10"
+         android:layout_width="@dimen/stone_size"
+         android:layout_height="@dimen/stone_size"
+         android:layout_margin="@dimen/stone_margin"
+         android:src="@drawable/yellow"
+         android:contentDescription="@string/image_description"
+         android:onClick="shakeDisc"/>
+
+     <ImageView
+         android:id="@+id/stone11"
+         android:layout_width="@dimen/stone_size"
+         android:layout_height="@dimen/stone_size"
+         android:layout_margin="@dimen/stone_margin"
+         android:src="@drawable/red"
+         android:contentDescription="@string/image_description"
+         android:onClick="shakeDisc"/> -->
+
+</GridLayout>
